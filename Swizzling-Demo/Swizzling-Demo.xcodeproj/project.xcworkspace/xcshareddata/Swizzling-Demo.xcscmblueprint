@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "631A2EB88517E73A0A233EAE21F3667A2276696E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "631A2EB88517E73A0A233EAE21F3667A2276696E" : 0,
+    "88EFCEAC42A9049BBFE200767CC7F994AC461D4A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DDD990DF-B8F1-4500-91E3-93BD35C2FA07",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "631A2EB88517E73A0A233EAE21F3667A2276696E" : "%E7%AE%80%E4%B9%A6%E5%8D%9A%E5%AE%A2Demo-Method%20Swizzling\/",
+    "88EFCEAC42A9049BBFE200767CC7F994AC461D4A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Swizzling-Demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swizzling-Demo\/Swizzling-Demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DeveloperErenLiu\/BlogDemo-Swizzling.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "631A2EB88517E73A0A233EAE21F3667A2276696E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/NewDream\/fengdu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88EFCEAC42A9049BBFE200767CC7F994AC461D4A"
+    }
+  ]
+}
